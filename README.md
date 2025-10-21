@@ -6,7 +6,11 @@ NIM  : 1313623023
 
 Class: A
 
-Gemini Prompt History:
+Batch: 1 No. 17
+
+Seed: 0.591381562
+
+Gemini Prompt History: https://gemini.google.com/share/8cea45cad4e7 
 
 
 
